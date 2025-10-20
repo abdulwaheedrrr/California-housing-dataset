@@ -39,7 +39,8 @@ It includes data preprocessing, model training (Linear, Ridge, Lasso, ElasticNet
 
 ### 1️⃣ Clone the Repository
 bash
-git clone https://github.com/yourusername/california-housing-predictor.git
+
+(https://github.com/abdulwaheedrrr/California-housing-dataset/upload/main)
 cd california-housing-predictor
 2️⃣ Install Dependencies
 bash
