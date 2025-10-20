@@ -79,6 +79,6 @@ Visualize feature importance in the app.
 👨‍💻 Author
 Abdul Waheed
 📧 [ab.wah876@gmail.com]
-🌐 [Your GitHub or LinkedIn link]
+🌐 [https://github.com/abdulwaheedrrr]
 
 ⭐ If you like this project, please give it a star on GitHub! ⭐
